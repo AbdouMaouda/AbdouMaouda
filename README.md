@@ -54,9 +54,8 @@ I enjoy building real-world applications that combine **authentication**, **clea
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/abdou-maouda
-- 💻 GitHub:💼 LinkedIn: [abdou-maouda](https://www.linkedin.com/in/abdou-maouda-90a8a9327/)
-
+- 💼 LinkedIn: [abdou-maouda](https://www.linkedin.com/in/abdou-maouda-90a8a9327/)
+- 💻 GitHub: https://github.com/AbdouMaouda
 
 <!--
 **AbdouMaouda/AbdouMaouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
