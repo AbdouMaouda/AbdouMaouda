@@ -55,7 +55,7 @@ I enjoy building real-world applications that combine **authentication**, **clea
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/abdou-maouda
-- 💻 GitHub: https://github.com/AbdouMaouda
+- 💻 GitHub:https://www.linkedin.com/in/abdou-maouda
 
 
 <!--
