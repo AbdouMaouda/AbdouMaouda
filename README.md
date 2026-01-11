@@ -1,8 +1,8 @@
 # Hi 👋 I'm Abdou Maouda
 
 🎓 Software Engineering student  
-💻 Backend & Full-Stack Developer  
-🔐 Interested in secure, scalable backend systems
+💻 AI & Software Engineer  
+🔐 Interested in secure and scalable systems
 
 ---
 
