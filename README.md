@@ -46,9 +46,10 @@ I enjoy building real-world applications that combine **authentication**, **clea
 ---
 
 ## 📌 Featured Projects
+- 🌐 **ConcoHub** — Full-stack web app (Node.js, Express, MongoDB)
 - 🔐 **E-Commerce Backend API** — Spring Boot, Spring Security, JWT, PostgreSQL  
 - 💰 **Expense Tracker Backend API** — Secure REST API with JWT authentication  
-- 🌐 **ConcoHub** — Full-stack web app (Node.js, Express, MongoDB)
+
 
 ---
 
