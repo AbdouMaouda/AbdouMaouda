@@ -14,8 +14,8 @@ I enjoy building real-world applications that combine **authentication**, **clea
 
 ## 🔨 What I'm Up To
 - Building Spring boot applications with PostgreSQL
-- Developing full-stack applications with Node.js, Express, and **MongoDB
-- Improving my understanding of **API security**, **databases**, and **system design**
+- Developing full-stack applications with Node.js, Express, and MongoDB
+- Exploring Machine Learning 
 
 ---
 ## 🛠️ Tech Stack
